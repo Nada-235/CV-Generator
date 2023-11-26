@@ -1,0 +1,24 @@
+.sideColor{
+    position: absolute;
+    background-color: #cecece;
+    height: 23mm;
+    width: 200mm;
+}
+
+.cvName{
+    padding-left: 2mm;
+    height: 4mm;
+}
+
+.cvJob{
+    padding-left: 2mm;
+        height: 4mm;
+}
+
+.centerflex{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    gap: 10px;
+    height: 10mm;
+}
